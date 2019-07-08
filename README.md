@@ -1,3 +1,5 @@
+这是老刘推荐的文章，用RGBD可以建立栅格地图
+
 Documentation is avalable at:
     <b>https://github.com/abhineet123/ORB_SLAM2/blob/master/2d-grid-mapping.pdf</b>
 
